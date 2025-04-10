@@ -9,7 +9,12 @@ git add .
 git commit -m "xxxx"
 ```
 
-## はじめてのコミット
+## はじめて
 ```
-git commit -m "first commit"
+first commit
+```
+
+## 加える
+```
+add xxxx
 ```
